@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+  background-image: url("pexels2.jpg");
+  background-repeat: no-repeat; 
+  background-size: 500px 500px; 
+
+}
+canvas {
+  display: block;
+}
+
